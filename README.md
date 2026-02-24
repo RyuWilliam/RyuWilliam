@@ -1,4 +1,4 @@
-Hi there, I'm William 👋
+Hi there, I'm William 
 
 I am a Systems Engineering student passionate about backend development, distributed systems, and scalable software architectures. I enjoy designing clean, efficient, and secure solutions using modern technologies, especially within the Java ecosystem.
 
@@ -18,7 +18,7 @@ I am a Systems Engineering student passionate about backend development, distrib
 - **Others:** Clean architecture principles, problem solving, debugging  
 
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 
 
 <!--
 **RyuWilliam/RyuWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
